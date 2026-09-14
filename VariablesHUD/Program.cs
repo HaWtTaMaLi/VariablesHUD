@@ -11,7 +11,7 @@ namespace VariablesHUD
 
     public class Program
     {
-        //Declaration
+        //Declaration + Initilization 
         static string gameName = "Game Name !";
         static int health = 100;
         static int lives = 3;
